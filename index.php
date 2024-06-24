@@ -43,5 +43,6 @@
         }
         echo "</h1>"
     ?>
+    <textarea name="" id="">bueno ya vidms que pdo con esto </textarea>
 </body>
 </html>
