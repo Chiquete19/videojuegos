@@ -30,7 +30,16 @@
               }
               $conn->close();
 
+
         ?>
+
     </h2>
+    <h2>holaaaaa me caga git </h2>
+    
+    <?php 
+        for ($i=0; $i < 10; $i++) { 
+            echo $i.",";
+        }
+    ?>
 </body>
 </html>
