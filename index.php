@@ -37,9 +37,11 @@
     <h2>holaaaaa me caga git </h2>
     
     <?php 
+        echo "<h1>";
         for ($i=0; $i < 10; $i++) { 
             echo $i.",";
         }
+        echo "</h1>"
     ?>
 </body>
 </html>
