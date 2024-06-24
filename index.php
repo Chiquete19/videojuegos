@@ -47,7 +47,7 @@
 
     <i>Esto lo hizo la rama Fernandoa</i>
     <img src="D:\Archivos\Imagenes\Camera Roll\WIN_20240523_14_48_31_Pro.jpg" alt="">
-    
+    <b>antes del problema</b>
     <b>Este es el problema mi hermano</b>
 </body>
 </html>
