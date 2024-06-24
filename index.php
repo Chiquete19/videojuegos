@@ -47,9 +47,7 @@
 
     <i>Esto lo hizo la rama Fernandoa</i>
     <img src="D:\Archivos\Imagenes\Camera Roll\WIN_20240523_14_48_31_Pro.jpg" alt="">
-<<<<<<<<< Temporary merge branch 1
+
     <a href="">tuamdrea</a>
-=========
->>>>>>>>> Temporary merge branch 2
 </body>
 </html>
